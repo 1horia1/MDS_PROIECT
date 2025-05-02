@@ -1,0 +1,27 @@
+# Unity specific
+Library/
+Temp/
+Obj/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Build directories
+Build/
+Builds/
+
+# Log files
+*.log
+
+# User-specific files
+*.pidb
+*.suo
+*.sln.docstates
