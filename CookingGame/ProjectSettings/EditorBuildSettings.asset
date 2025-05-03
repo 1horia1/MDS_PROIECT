@@ -9,8 +9,32 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/StartScene.unity
-    guid: 7e6302c3853289249a099f568373e07e
+    path: Assets/Scenes/SettingsScene.unity
+    guid: 52fdeecb64973e044a4242c4a666b46c
+  - enabled: 1
+    path: Assets/Scenes/ProfilesScene.unity
+    guid: 822c565d73e2d534593b45265c43314a
+  - enabled: 1
+    path: Assets/Scenes/OrderPickupScene.unity
+    guid: 000b892699823f74094bca52b7462502
+  - enabled: 1
+    path: Assets/Scenes/LevelsScene.unity
+    guid: 02be7dde81cc1bc49b89d8f8ba86cda8
+  - enabled: 1
+    path: Assets/Scenes/Kitchen1Scene.unity
+    guid: 08183099be423134cb2eed2b77332044
+  - enabled: 1
+    path: Assets/Scenes/Kitchen2Scene.unity
+    guid: c2d6116674563e0419dc58dfa1eb765d
+  - enabled: 1
+    path: Assets/Scenes/Kitchen3Scene.unity
+    guid: 4e1ac0c9e99f29b4fad1752942c1a5a3
+  - enabled: 1
+    path: Assets/Scenes/OrderDeliveryScene.unity
+    guid: a0d12e73efdfd7e40af112bac196ad3a
+  - enabled: 1
+    path: Assets/Scenes/DayEndingScene.unity
+    guid: 32e9eccf9813b8346b66164171923020
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
