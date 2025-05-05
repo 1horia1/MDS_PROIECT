@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1383aede67ad25d4abfe33c5c8d7eaac
+guid: cfe9cb27ec6990c4097bfcfc719f0fed
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4115009480949646327
-    second: fryArea_0
+      213: 8041774921739049974
+    second: pan_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fryArea_0
+      name: pan_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1977
-        height: 1112
+        x: 43
+        y: 18
+        width: 551
+        height: 164
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f34e5712537b1930800000000000000
-      internalID: 4115009480949646327
+      spriteID: 6fb96e52faf1a9f60800000000000000
+      internalID: 8041774921739049974
       vertices: []
       indices: 
       edges: []

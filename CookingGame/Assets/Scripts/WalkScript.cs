@@ -1,40 +1,53 @@
+using System;
 using UnityEngine;
 
 public class Walk : MonoBehaviour
 {
     public float viteza = 200f;
-    private float pozitieFinalaX;
-    private bool sAoprit = false;
+    public float pozitieFinalaX = 650f;
+    private bool saOprit = false;
+    private Animator animator;
 
     void Start()
     {
-        Vector3 worldPoz = Camera.main.ViewportToWorldPoint(new Vector3(0.25f, 0.5f, Mathf.Abs(Camera.main.transform.position.z)));
-        pozitieFinalaX = worldPoz.x;
+        animator = GetComponent<Animator>();
     }
 
     void Update()
     {
-        if (!sAoprit && transform.position.x > pozitieFinalaX)
+        if (saOprit)
+            return;
+
+        if (transform.position.x > pozitieFinalaX)
         {
             float pas = viteza * Time.deltaTime;
-            float distanta = transform.position.x - pozitieFinalaX;
-
-            if (pas > distanta)
-                pas = distanta;
-
-            transform.Translate(Vector3.left * pas);
+            transform.position += new Vector3(-1f * pas, 0f, 0f);
         }
-        else if (!sAoprit)
+        else
         {
-            sAoprit = true;
+            Debug.Log("New client.");
+            saOprit = true;
 
+            if (animator != null)
+                animator.enabled = false;
+
+            // Reset the rotations
             transform.rotation = Quaternion.identity;
 
-            foreach (Transform child in transform)
+            foreach (Transform body in transform)
             {
-                child.localRotation = Quaternion.identity;
-            }
+                body.localRotation = Quaternion.identity;
 
+                foreach (Transform child in body)
+                {
+                    child.localRotation = Quaternion.identity;
+
+                    foreach (Transform grandchild in child)
+                    {
+                        grandchild.localRotation = Quaternion.identity;
+                    }
+                }
+            }
         }
     }
 }

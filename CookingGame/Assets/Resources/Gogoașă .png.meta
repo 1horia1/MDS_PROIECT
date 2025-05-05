@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1383aede67ad25d4abfe33c5c8d7eaac
+guid: a87fbbb6bcb7fb844b77f54f22c875f9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4115009480949646327
-    second: fryArea_0
+      213: 1791690689144710896
+    second: "Gogoa\u0219\u0103 _0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fryArea_0
+      name: "Gogoa\u0219\u0103 _0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1977
-        height: 1112
+        x: 396
+        y: 416
+        width: 974
+        height: 952
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f34e5712537b1930800000000000000
-      internalID: 4115009480949646327
+      spriteID: 0f668d1603d5dd810800000000000000
+      internalID: 1791690689144710896
       vertices: []
       indices: 
       edges: []
