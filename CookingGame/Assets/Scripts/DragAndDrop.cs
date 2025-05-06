@@ -2,8 +2,9 @@ using UnityEngine;
 
 public class DragAndDrop : MonoBehaviour
 {
-    Camera cam;
-    bool holding;
+    public GameObject donutOnTheStove;
+    private Camera cam;
+    private bool holding = false;
 
     void Start()
     {
@@ -12,21 +13,31 @@ public class DragAndDrop : MonoBehaviour
 
     void Update()
     {
+        Vector2 mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
+
+        if (Input.GetMouseButtonDown(0))
+        {
+            RaycastHit2D hit = Physics2D.Raycast(mousePos, Vector2.zero);
+            if (hit.collider != null && hit.collider.gameObject == gameObject)
+            {
+                holding = true;
+            }
+        }
+
+        if (Input.GetMouseButtonUp(0) && holding)
+        {
+            holding = false;
+            if (donutOnTheStove != null)
+            {
+                donutOnTheStove.SetActive(true);
+            }
+            Destroy(gameObject);
+        }
+
         if (holding)
         {
-            Vector2 pos = cam.ScreenToWorldPoint(Input.mousePosition);
-            transform.position = pos;
+            transform.position = mousePos;
         }
-    }
-
-    void OnMouseDown()
-    {
-        holding = true;
-    }
-
-    void OnMouseUp()
-    {
-        holding = false;
     }
 
     public void StartDragging()

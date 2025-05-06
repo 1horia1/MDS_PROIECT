@@ -1,9 +1,9 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class DonutToFryScript : MonoBehaviour
 {
     public GameObject donutFromAbove;
+    public GameObject donutOnStoveInScene; 
 
     void OnMouseDown()
     {
@@ -12,6 +12,7 @@ public class DonutToFryScript : MonoBehaviour
         DragAndDrop dragScript = newDonut.GetComponent<DragAndDrop>();
         if (dragScript != null)
         {
+            dragScript.donutOnTheStove = donutOnStoveInScene; 
             dragScript.StartDragging();
         }
     }
