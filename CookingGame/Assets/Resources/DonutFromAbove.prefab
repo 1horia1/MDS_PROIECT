@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1000
-  m_Sprite: {fileID: 1791690689144710896, guid: a87fbbb6bcb7fb844b77f54f22c875f9, type: 3}
+  m_Sprite: {fileID: 1821792655132155914, guid: 6c622a0180ee718498bbb96ad38ac375, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -100,4 +100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63a008a6b1954e949bdbe35abdfbe378, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  donutOnTheStove: {fileID: 0}
+  donutOnTheStove_left: {fileID: 5089111726282362636, guid: b0520f62cde5c2644911f7c863f47086, type: 3}
+  donutOnTheStove_right: {fileID: 5089111726282362636, guid: b0520f62cde5c2644911f7c863f47086, type: 3}
+  script: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2550705138342520945}
   - component: {fileID: 7389726917283613448}
   m_Layer: 0
-  m_Name: DonutOnTheStove 2
+  m_Name: DonutOnTheStove
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 500
-  m_Sprite: {fileID: -8592115492486361828, guid: a864a266ae49d2a49a260171255d4e5a, type: 3}
+  m_Sprite: {fileID: 7515398073897312124, guid: 1f44596c1e85dc745a12e161932cac8b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
