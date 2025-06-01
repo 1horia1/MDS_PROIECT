@@ -129,6 +129,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      donut4brown_0: 2998640277874970446
+      donut4brown_1: -4296239051451456959
+      donut4brown_10: 399154319214356292
+      donut4brown_11: 6864943322405648166
+      donut4brown_2: 186581702728706312
+      donut4brown_3: -871341544870573462
+      donut4brown_4: 3350646742260344538
+      donut4brown_5: -627181543769494128
+      donut4brown_6: -3759410514317872178
+      donut4brown_7: 2098624124031398428
+      donut4brown_8: 2123145903733757172
+      donut4brown_9: 2717054879774292265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
