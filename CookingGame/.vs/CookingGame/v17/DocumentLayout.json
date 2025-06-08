@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\facultate\\MDS_PROIECT\\CookingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|d:\\facultate\\mds_proiect\\cookinggame\\assets\\scripts\\draganddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|d:\\facultate\\mds_proiect\\cookinggame\\assets\\scripts\\drinktomake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drinktomake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|d:\\facultate\\mds_proiect\\cookinggame\\assets\\scripts\\lastclicked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lastclicked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|D:\\facultate\\MDS_PROIECT\\CookingGame\\assets\\scripts\\draganddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draganddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|d:\\facultate\\mds_proiect\\cookinggame\\assets\\scripts\\changingscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changingscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|D:\\facultate\\MDS_PROIECT\\CookingGame\\assets\\scripts\\donuttofryscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\donuttofryscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DragAndDrop.cs",
-              "DocumentMoniker": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DragAndDrop.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DragAndDrop.cs",
-              "ToolTip": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DragAndDrop.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DragAndDrop.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DrinkToMake.cs",
+              "DocumentMoniker": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DrinkToMake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DrinkToMake.cs",
+              "ToolTip": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DrinkToMake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DrinkToMake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T13:16:14.297Z",
+              "WhenOpened": "2025-06-08T17:30:12.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChangingSceneScript.cs",
-              "DocumentMoniker": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\ChangingSceneScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangingSceneScript.cs",
-              "ToolTip": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\ChangingSceneScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChangingSceneScript.cs",
+              "Title": "LastClicked.cs",
+              "DocumentMoniker": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\LastClicked.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LastClicked.cs",
+              "ToolTip": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\LastClicked.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LastClicked.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T17:15:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonutToFryScript.cs",
+              "DocumentMoniker": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DonutToFryScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DonutToFryScript.cs",
+              "ToolTip": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DonutToFryScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DonutToFryScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:56:32.355Z",
+              "WhenOpened": "2025-06-08T17:12:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DragAndDrop.cs",
+              "DocumentMoniker": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DragAndDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragAndDrop.cs",
+              "ToolTip": "D:\\facultate\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DragAndDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragAndDrop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:16:14.297Z",
               "EditorCaption": ""
             }
           ]
