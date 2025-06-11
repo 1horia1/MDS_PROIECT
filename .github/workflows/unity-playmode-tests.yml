@@ -24,17 +24,17 @@ jobs:
           key: ${{ runner.os }}-unity-${{ hashFiles('**/Packages/manifest.json') }}
 
       - name: Setup Unity
-        uses: game-ci/unity-actions/setup@v2
+        uses: game-ci/unity-actions/setup@v3
         with:
-          unityVersion: 6000.0.47f1  # ← pune versiunea ta Unity (din CookingGame/ProjectSettings/ProjectVersion.txt)
+          unityVersion: 6000.0.47f1 # pune versiunea ta Unity
 
       - name: Run PlayMode tests
-        uses: game-ci/unity-actions/test@v2
+        uses: game-ci/unity-actions/test@v3
         with:
           testMode: playmode
 
       - name: Upload Test Results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: PlayMode Test Results
           path: TestResults
