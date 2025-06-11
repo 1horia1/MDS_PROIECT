@@ -8,12 +8,10 @@ on:
 
 jobs:
   playmode-test:
-    name: Run PlayMode Tests
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Cache Unity packages
         uses: actions/cache@v3
@@ -24,12 +22,12 @@ jobs:
           key: ${{ runner.os }}-unity-${{ hashFiles('**/Packages/manifest.json') }}
 
       - name: Setup Unity
-        uses: game-ci/unity-actions/setup@v2
+        uses: game-ci/unity-actions/setup@main
         with:
-          unityVersion: 2022.3.0f1  # pune versiunea ta Unity
+          unityVersion: 2022.3.0f1
 
       - name: Run PlayMode tests
-        uses: game-ci/unity-actions/test@v2
+        uses: game-ci/unity-actions/test@main
         with:
           testMode: playmode
 
