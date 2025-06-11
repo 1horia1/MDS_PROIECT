@@ -26,7 +26,7 @@ jobs:
       - name: Setup Unity
         uses: game-ci/unity-actions/setup@v2
         with:
-          unityVersion: 2022.3.0f1  # ← pune versiunea ta Unity (din CookingGame/ProjectSettings/ProjectVersion.txt)
+          unityVersion: 6000.0.47f1  # ← pune versiunea ta Unity (din CookingGame/ProjectSettings/ProjectVersion.txt)
 
       - name: Run PlayMode tests
         uses: game-ci/unity-actions/test@v2
