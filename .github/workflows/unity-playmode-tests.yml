@@ -22,12 +22,12 @@ jobs:
           key: ${{ runner.os }}-unity-${{ hashFiles('**/Packages/manifest.json') }}
 
       - name: Setup Unity
-        uses: game-ci/unity-actions/setup@main
+        uses: game-ci/unity-actions/setup@v2
         with:
           unityVersion: 2022.3.0f1
 
       - name: Run PlayMode tests
-        uses: game-ci/unity-actions/test@main
+        uses: game-ci/unity-actions/test@v2
         with:
           testMode: playmode
 
