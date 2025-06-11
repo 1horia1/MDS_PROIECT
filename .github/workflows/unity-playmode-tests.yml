@@ -1,0 +1,40 @@
+name: Run Unity PlayMode Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  playmode-test:
+    name: Run PlayMode Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Cache Unity packages
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache/unity3d
+            ~/.local/share/unity3d
+          key: ${{ runner.os }}-unity-${{ hashFiles('**/Packages/manifest.json') }}
+
+      - name: Setup Unity
+        uses: game-ci/unity-actions/setup@v2
+        with:
+          unityVersion: 2022.3.0f1  # ← pune versiunea ta Unity (din CookingGame/ProjectSettings/ProjectVersion.txt)
+
+      - name: Run PlayMode tests
+        uses: game-ci/unity-actions/test@v2
+        with:
+          testMode: playmode
+
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v3
+        with:
+          name: PlayMode Test Results
+          path: TestResults
