@@ -1945,6 +1945,8 @@ GameObject:
   - component: {fileID: 1699083279}
   - component: {fileID: 1699083278}
   - component: {fileID: 1699083277}
+  - component: {fileID: 1699083280}
+  - component: {fileID: 1699083281}
   m_Layer: 5
   m_Name: Level 1
   m_TagString: Untagged
@@ -2065,6 +2067,35 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1699083275}
   m_CullTransparentMesh: 1
+--- !u!114 &1699083280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699083275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720374a62547e504fbc4dd739331122c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1699083281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699083275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc25a58cd01d4344a9ca021ebc22f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nivelCurent: 1
+  requestedGlazura: capsuni
+  glazuraAleasa: 
+  requestDulce: Caramel
+  DulceAles: 
 --- !u!1 &1851572344
 GameObject:
   m_ObjectHideFlags: 0
