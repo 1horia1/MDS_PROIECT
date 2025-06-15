@@ -15,7 +15,7 @@ public class Gogoasa : MonoBehaviour
     {
         if (Instance != null && Instance != this)
         {
-            Destroy(gameObject);
+            Instance = this;
         }
         else
         {
@@ -23,13 +23,16 @@ public class Gogoasa : MonoBehaviour
             DontDestroyOnLoad(gameObject);
         }
     }
-    public static void CreateIfNeeded()
+    public static Gogoasa CreateIfNeeded()
     {
         if (Instance == null)
         {
             GameObject go = new GameObject("GogoasaManager");
-            go.AddComponent<Gogoasa>();
+            go.AddComponent<Bautura_dulciuri>();
+            DontDestroyOnLoad(go);
+            // Instance se setează în Awake imediat
         }
+        return Instance;
     }
 
     public void SetLevel(int level)
@@ -41,16 +44,19 @@ public class Gogoasa : MonoBehaviour
         {
             case 1:
                 requestedGlazura = "ciocolata";
-                requestDulce = "acadea";
+                requestDulce = "Acadea";
                 break;
             case 2:
                 requestedGlazura = "capsuni";
+                requestDulce = "Caramel";
                 break;
             case 3:
-                requestedGlazura = "vanilie";
+                requestedGlazura = "fistic";
+                requestDulce = "cookies";
                 break;
             default:
                 requestedGlazura = "ciocolata";
+                requestDulce = "fistic";
                 break;
         }
 

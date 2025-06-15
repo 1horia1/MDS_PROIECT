@@ -1,58 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\gogoasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gogoasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\bautura_dulciuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\vai de capul meu\\mds_proiect\\cookinggame\\assets\\scripts\\bautura_dulciuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bautura_dulciuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\vai de capul meu\\mds_proiect\\cookinggame\\assets\\scripts\\gogoasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gogoasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\barloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\dulceselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dulceselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\mds_proiect_meu\\mds_proiect\\cookinggame\\assets\\scripts\\glazuraselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\vai de capul meu\\mds_proiect\\cookinggame\\assets\\scripts\\glazuraselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\glazuraselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\mds_proiect_meu\\mds_proiect\\cookinggame\\assets\\scripts\\prajituricascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prajituricascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\vai de capul meu\\mds_proiect\\cookinggame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\mds_proiect_meu\\mds_proiect\\cookinggame\\assets\\scripts\\sucselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sucselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\finishscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\disableanimatorafterplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\disableanimatorafterplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\scenaa_selectglazura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenaa_selectglazura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\assets\\scripts\\changingscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changingscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\vai de capul meu\\mds_proiect\\cookinggame\\assets\\scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC74B7CA-8782-3C04-1EFD-F30056E41432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,174 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DulceSelector.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DulceSelector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DulceSelector.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DulceSelector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DulceSelector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:25:05.534Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GlazuraSelector.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GlazuraSelector.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GlazuraSelector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GlazuraSelector.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GlazuraSelector.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GlazuraSelector.cs",
               "RelativeToolTip": "Assets\\Scripts\\GlazuraSelector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:47:57.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "prajituricaScript.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\prajituricaScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\prajituricaScript.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\prajituricaScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\prajituricaScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:36:23.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SucSelector.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\SucSelector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SucSelector.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\SucSelector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SucSelector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:21:11.144Z",
+              "WhenOpened": "2025-06-15T13:09:40.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bautura_dulciuri.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Bautura_dulciuri.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bautura_dulciuri.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Bautura_dulciuri.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bautura_dulciuri.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAnAAAAAAAAAA==",
+              "Title": "Gogoasa.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Gogoasa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gogoasa.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Gogoasa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gogoasa.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:10:39.915Z",
+              "WhenOpened": "2025-06-15T12:54:23.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FinishSceneController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\FinishSceneController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishSceneController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\FinishSceneController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FinishSceneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Level1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Level1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Level1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:58:42.102Z",
+              "WhenOpened": "2025-06-15T12:53:10.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BarLoading.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\BarLoading.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BarLoading.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\BarLoading.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BarLoading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:22:16.577Z",
+              "WhenOpened": "2025-06-15T12:52:37.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Gogoasa.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Gogoasa.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Gogoasa.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Gogoasa.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Gogoasa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Title": "Bautura_dulciuri.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Bautura_dulciuri.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bautura_dulciuri.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\vai de capul meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Bautura_dulciuri.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bautura_dulciuri.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:56:23.293Z",
+              "WhenOpened": "2025-06-15T12:51:46.971Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DisableAnimatorAfterPlay.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DisableAnimatorAfterPlay.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DisableAnimatorAfterPlay.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\DisableAnimatorAfterPlay.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DisableAnimatorAfterPlay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:07:55.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Level1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Level1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\Level1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Level1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T07:55:48.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScenaA_SelectGlazura.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\ScenaA_SelectGlazura.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScenaA_SelectGlazura.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\ScenaA_SelectGlazura.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScenaA_SelectGlazura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:45:41.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:35:41.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ChangingSceneScript.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\ChangingSceneScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangingSceneScript.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mds_proiect_meu\\MDS_PROIECT\\CookingGame\\Assets\\Scripts\\ChangingSceneScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChangingSceneScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:15:36.968Z"
             }
           ]
         }

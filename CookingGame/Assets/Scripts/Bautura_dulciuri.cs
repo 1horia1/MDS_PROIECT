@@ -23,15 +23,17 @@ public class Bautura_dulciuri : MonoBehaviour
             DontDestroyOnLoad(gameObject);
         }
     }
-    public static void CreateIfNeeded()
+    public static Bautura_dulciuri CreateIfNeeded()
     {
         if (Instance == null)
         {
-            GameObject go = new GameObject("GogoasaManager");
+            GameObject go = new GameObject("BauturaManager");
             go.AddComponent<Bautura_dulciuri>();
+            DontDestroyOnLoad(go);
+            // Instance se setează în Awake imediat
         }
+        return Instance;
     }
-
     public void SetLevel(int level)
     {
         nivelCurent = level;
@@ -40,16 +42,20 @@ public class Bautura_dulciuri : MonoBehaviour
         switch (level)
         {
             case 1:
-                requestedSuc = "cola";
+                requestedSuc = "Cola";
+                requestDulce = "portocale";
                 break;
             case 2:
-                requestedSuc = "nestea";
+                requestedSuc = "Nestea";
+                requestDulce = "ciocolata";
                 break;
             case 3:
-                requestedSuc = "vanilie";
+                requestedSuc = "Limonada";
+                requestDulce = "ciocolata";
                 break;
             default:
-                requestedSuc = "ciocolata";
+                requestedSuc = "Nestea";
+                requestDulce = "afine";
                 break;
         }
 
