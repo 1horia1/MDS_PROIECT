@@ -5,13 +5,18 @@ public class GlazuraSelector : MonoBehaviour
 {
     public Button ciocolataButton;
     public Button capsuniButton;
-    public Button vanilieButton;
+    public Button afineButton;
+    public Button fisticButton;
+    public Button Ceva;
+
 
     void Start()
     {
         ciocolataButton.onClick.AddListener(() => SelecteazaGlazura("ciocolata"));
         capsuniButton.onClick.AddListener(() => SelecteazaGlazura("capsuni"));
-        vanilieButton.onClick.AddListener(() => SelecteazaGlazura("vanilie"));
+        Ceva.onClick.AddListener(() => SelecteazaGlazura("Ceva"));
+        afineButton.onClick.AddListener(() => SelecteazaGlazura("afine"));
+        fisticButton.onClick.AddListener(() => SelecteazaGlazura("fistic"));
     }
 
     void SelecteazaGlazura(string nume)

@@ -4955,6 +4955,8 @@ GameObject:
   - component: {fileID: 1720723565}
   - component: {fileID: 1720723564}
   - component: {fileID: 1720723563}
+  - component: {fileID: 1720723568}
+  - component: {fileID: 1720723569}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -5070,6 +5072,44 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1720723568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720723562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b56598af74aaa4a89a309ee1bcb9f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ColaSuc: {fileID: 537203987}
+  Nestea: {fileID: 2126837100}
+  cafea: {fileID: 1463715031}
+  limonada: {fileID: 1191051311}
+  cocktail: {fileID: 536927815}
+  cocktail2: {fileID: 382290907}
+--- !u!114 &1720723569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720723562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745e65ac0b9dd14489116c951c633b13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  capsuni: {fileID: 1380229391}
+  portocale: {fileID: 383649909}
+  ciocolata: {fileID: 266317753}
+  zmeura: {fileID: 820694219}
+  roz: {fileID: 1668605250}
+  caise: {fileID: 2016159379}
+  afine: {fileID: 737320734}
+  merisoare: {fileID: 466161809}
 --- !u!1 &1725051982
 GameObject:
   m_ObjectHideFlags: 0

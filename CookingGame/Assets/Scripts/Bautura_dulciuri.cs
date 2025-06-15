@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-public class Gogoasa : MonoBehaviour
+public class Bautura_dulciuri : MonoBehaviour
 {
-    public static Gogoasa Instance;
+    public static Bautura_dulciuri Instance;
 
-    public int nivelCurent =0;
-    public string requestedGlazura = "";
-    public string glazuraAleasa = "";
+    public int nivelCurent = 0;
+    public string requestedSuc = "";
+    public string SucAles = "";
     public string requestDulce = "";
     public string DulceAles = "";
 
@@ -15,7 +15,7 @@ public class Gogoasa : MonoBehaviour
     {
         if (Instance != null && Instance != this)
         {
-            Destroy(gameObject);
+            Instance = this;
         }
         else
         {
@@ -28,7 +28,7 @@ public class Gogoasa : MonoBehaviour
         if (Instance == null)
         {
             GameObject go = new GameObject("GogoasaManager");
-            go.AddComponent<Gogoasa>();
+            go.AddComponent<Bautura_dulciuri>();
         }
     }
 
@@ -40,20 +40,19 @@ public class Gogoasa : MonoBehaviour
         switch (level)
         {
             case 1:
-                requestedGlazura = "ciocolata";
-                requestDulce = "acadea";
+                requestedSuc = "cola";
                 break;
             case 2:
-                requestedGlazura = "capsuni";
+                requestedSuc = "nestea";
                 break;
             case 3:
-                requestedGlazura = "vanilie";
+                requestedSuc = "vanilie";
                 break;
             default:
-                requestedGlazura = "ciocolata";
+                requestedSuc = "ciocolata";
                 break;
         }
 
-        glazuraAleasa = "";
+        SucAles = "";
     }
 }

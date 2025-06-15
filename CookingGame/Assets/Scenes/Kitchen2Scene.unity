@@ -675,7 +675,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ciocolataButton: {fileID: 1056301747}
   capsuniButton: {fileID: 777100290}
-  vanilieButton: {fileID: 0}
+  afineButton: {fileID: 978900937}
+  fisticButton: {fileID: 1934618049}
+  Ceva: {fileID: 1380683619}
 --- !u!114 &216847344
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -690,7 +692,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AcadeaButton: {fileID: 597014028}
   CaramelButton: {fileID: 311706081}
-  AltButton: {fileID: 0}
+  Ciocolata: {fileID: 1203674527}
+  cookies: {fileID: 875960940}
+  bomboana: {fileID: 1662666068}
+  fistic: {fileID: 1260641184}
+  portocala: {fileID: 183448221}
+  zmereu: {fileID: 376971365}
+  bombonica1: {fileID: 723543616}
 --- !u!1 &311706079
 GameObject:
   m_ObjectHideFlags: 0
